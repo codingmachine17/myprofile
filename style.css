@@ -1,0 +1,31 @@
+/*we're adding font */
+p{
+	color: black;
+font-family: 'Fira Sans', sans-serif;
+margin-left: 50px;
+}
+
+
+
+h1{
+	font-family: 'Festive', cursive;
+	font-size: 48px;
+
+}
+
+li{
+	color: black;
+	font-family: 'Fira Sans', sans-serif;
+}
+
+.subject{
+	font-size: 48px;
+}
+td{
+	padding: 15px;
+}
+
+h2{
+	font-family: 'MonteCarlo', cursive;
+	font-size: 48px;
+}
